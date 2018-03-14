@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:JarPackagesDowdload.Properties"
+                    xmlns:drawing="clr-namespace:System.Drawing;assembly=System.Drawing"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="imastr">12301</system:String>
+    <system:Double x:Key="胜多负少"></system:Double>
+</ResourceDictionary>
